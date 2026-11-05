@@ -1,2 +1,2 @@
-# my-first-website-sophia-foundation
+# sophia-foundation
 My first website via sophia foundations IT course
